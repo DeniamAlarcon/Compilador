@@ -13,6 +13,7 @@ import java.util.ArrayList;
  * @author Deniam
  */
 public class Intermedio {
+    
 
     public String[][] vectorDatos;
     public String regresar = "";
